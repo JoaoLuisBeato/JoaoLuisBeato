@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoLuisBeato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuisBeato&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuisBeato&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 - Estudando:   
@@ -14,7 +14,6 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
 </div> 
   
 ##
