@@ -23,7 +23,7 @@
   <a href="https://instagram.com/JoaoLuisBeato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoluisbeato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/JoaoLuisBeato"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/joaoluisbeatocardoso/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaoluisbeatocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
   
