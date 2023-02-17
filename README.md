@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Luís Beato Cardoso.
 
-- 📚 Estudanto Engenharia de Computação - 4º Semestre.
+- 📚 Estudanto Engenharia de Computação - 5º Semestre.
 - 🏫 PUC-CAMPINAS
 
 <div align="center">
