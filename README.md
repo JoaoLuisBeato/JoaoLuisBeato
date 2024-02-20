@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JoaoLuisBeato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=JoaoLuisBeato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ###
